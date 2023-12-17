@@ -1,21 +1,26 @@
-# cdQDW2Uk
+# Personal dashboard chrome extension 
 
-Quick start:
 
-```
-$ npm install
-$ npm start
-````
+### screenshots
+![image](screenshot.png)
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Description
++ This is a personal dashboard chrome extension. 
++ It utilizes the Unsplash API, CoinGecko API and OpenWeather API to fetch data to display it on a user-friendly interface.
+  + This is part of the Scrimba Front-End Career Path projects.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Built With
 
-Happy Coding!
++ Semantic HTML5 markup
++ CSS custom properties
++ Javascript
++ Flexbox
++ Unsplash API
++ CoinGecko API
++ OpenWeather API
+
+
+## Live Demo
+
+- Live Site URL: [Here]()
