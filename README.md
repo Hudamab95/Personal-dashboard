@@ -20,7 +20,3 @@
 + CoinGecko API
 + OpenWeather API
 
-
-## Live Demo
-
-- Live Site URL: [Here]()
